@@ -1,4 +1,4 @@
-## [final_code_medical_analysis.ipynb)
+## [Disease detection](final_code_medical_analysis (1).ipynb)
 
 **motivation** :
 
