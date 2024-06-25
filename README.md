@@ -14,7 +14,7 @@ finding patterns in features.
 ### Result :
 
 1. after feature extraciton, features were trimmed to around 200, and f1 score still could maintain with good quality
-2. it is ovcious to see that "test" feature could influence the prediction more than other features
+2. it is obvcious to see that "test" feature could influence the prediction more than other features
 more details are shown in ***predictive modeling final report.pdf***
 
 ### Dataset :
