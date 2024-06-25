@@ -1,4 +1,4 @@
-## [final_code_medical_analysis(1).ipynb)
+## [final_code_medical_analysis.ipynb)
 
 **motivation** :
 
